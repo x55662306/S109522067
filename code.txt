@@ -2,9 +2,8 @@
 
 int main(int argc, char **argv)
 {	
+	std::cout << "Here is some code" << std::endl;
 	if(argc > 2)
 	{
 		std::cout << "Here is some code" << std::endl;
 	}
-	exit EXIT_SUCESS;
-}
