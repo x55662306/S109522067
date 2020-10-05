@@ -1,0 +1,7 @@
+#include<iostream>
+
+int main()
+{
+	std::cout << "Here is some code" << std::endl
+	exit EXIT_SUCESS;
+}
